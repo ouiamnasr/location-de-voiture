@@ -1,0 +1,86 @@
+#CSS 
+
+Introduction :
+
+Nom du Projet: Site Web de Location de Voitures
+Objectif: Développer une plateforme conviviale pour la location de voitures en utilisant HTML et CSS.
+Technologies Utilisées :
+
+Langages : HTML5, CSS3
+Polices : Arial, sans-serif pour la plupart du texte, et Kalnia pour certains éléments.
+Frameworks/Librairies : Aucun framework CSS externe.
+Autres : Utilisation de Google Fonts pour Kalnia.
+Structure du Site :
+
+Modèle de Boîte : Utilisation du modèle de boîte (box model) pour définir la taille et les espacements des éléments.
+Flexbox : Utilisation de Flexbox pour organiser la mise en page de manière flexible et réactive.
+Styles Généraux :
+
+Couleurs de Base : #333 (noir), #eee (gris clair), #fff (blanc), rebeccapurple (violet).
+Mise en Page : Centrée avec un padding global de 10px.
+En-tête (header) :
+
+Fond : #333 (noir), texte en blanc (#fff).
+Logo : Aligné à gauche avec une marge à droite.
+Texte : Aligné à gauche.
+Navigation (nav) :
+
+Fond : #eee (gris clair), texte en noir (#333).
+Liens : Espacés avec une marge de 10px.
+Texte : Aligné à droite.
+
+Le sélecteur :nth-child(2) signifie que la règle s'appliquera uniquement aux éléments qui sont le deuxième enfant de leur parent.
+
+Sections Principales :
+
+Flexbox : Utilisation de conteneurs flexibles pour organiser les sections.
+Marges et Paddings : Utilisation pour un espacement approprié.
+Footer :
+
+Fond : #333 (noir), texte en blanc (#fff).
+Padding : 10px, centré, positionné en bas de la page.
+Liens : Alignés au centre avec une marge de 10px.
+Galerie de Photos :
+
+Flexbox : Utilisation de conteneurs flexibles pour afficher les photos.
+Bordures : Fines autour des photos.
+Marges et Paddings : Utilisation pour un espacement approprié.
+Formulaires (contact) :
+
+Largeur : Maximisation à 600px avec une marge centrée.
+Style de Formulaire : En grille avec un espacement de 10px.
+Étiquettes : En gras pour les champs de saisie.
+Bouton : Fond gris clair (#e9eae3) avec texte rouge (#d51c1c).
+Réseaux Sociaux :
+
+Taille de Police : 10px.
+Marge : À droite de 5px.
+
+##HTML
+<link rel="stylesheet" href="/CSS/styles.css"> relie la feuille de style locale.
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"> relie la bibliothèque Font Awesome.
+
+<title>Acceuil</title> définit le titre de la page.
+Corps de la Page :
+
+En-tête (Header) :
+
+Logo et titre "Location de Voiture" inclus dans la balise <header>.
+Utilisation de <img> pour afficher le logo.
+Navigation (Nav) :
+
+Liens pour différentes sections du site inclus dans la balise <nav>.
+Sections principales (Container) :
+
+Utilisation de la classe "container" pour regrouper les sections principales.
+Trois sections ("photo-box") avec des images de voitures et des descriptions.
+Boutons "About" pour rediriger vers les pages détaillées.
+Vidéo :
+
+Balise <video> pour afficher une vidéo de voiture de luxe.
+Contrôles de lecture inclus.
+Footer :
+
+Informations de droits d'auteur, contact et réseaux sociaux inclus.
+Utilisation de Font Awesome pour les icônes de réseaux sociaux.
+Adresse e-mail fournie.

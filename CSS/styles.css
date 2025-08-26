@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalnia:wght@200&display=swap');
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align:left;
+}
+
+header img {
+    max-height: 50px;
+    margin-right: 10px;
+}
+
+nav {
+    background-color: #eee;
+    padding: 10px;
+    text-align: right;
+}
+
+nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+h1
+{
+text-align: center;
+}
+h3{
+    color: rebeccapurple;
+}
+p{
+    text-align: justify;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+ footer {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+            margin-top: auto; 
+        }
+
+        footer p {
+            margin: 0;
+            text-align: center;
+        }
+
+        footer a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 10px;
+            text-align:center;
+        }
+.container {
+    display: flex;
+    justify-content: space-around; 
+}
+.photo-box {
+    flex: 1;
+    margin: 10px; 
+    text-align: center;
+    border: .1px solid black;
+    height: max-content;
+}
+
+.photo-box:nth-child(2) {
+    margin-top: 800px;
+}
+
+.photo-box img {
+    max-width: 100%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.photo-box:nth-child(1) img {
+    width: 300px;
+    height: 200px;
+  }
+  
+.photo-box:nth-child(2) img {
+    width: 300px;
+    height: 200px;
+  }
+  
+.photo-box:nth-child(3) img {
+    width: 300px;
+    height: 200px;
+  }
+.photo-box1:nth-child(2) {
+    margin-top: 700px;
+}
+.photo-box1 {
+    flex: 1;
+    margin: 10px; 
+    text-align: center;
+    border: .1px solid black;
+    height: max-content;
+}
+.photo-box1:nth-child(2) img {
+    width: 300px;
+    height: 200px;
+  }
+.photo-box2:nth-child(2) {
+    margin-top: 700px;
+}
+
+.photo-box2 {
+    flex: 1;
+    margin: 10px; 
+    text-align: center;
+    border: .1px solid black;
+    height: max-content;
+}
+.photo-box2:nth-child(2) img {
+    width: 300px;
+    height: 200px;
+  }
+  
+  
+.description {
+    margin-top: 10px; 
+    display: inline;
+    justify-content: center;
+    text-align: center;
+}
+
+.ved {
+    text-align: center;
+}
+#contact{
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+form {
+    display: grid;
+    gap: 10px;
+}
+
+label {
+    font-weight: bold;
+}
+
+button {
+    background-color: #e9eae3;
+    color: rgb(213, 28, 28);
+    padding: 10px;
+    border: solid 5%;
+}
+.sociaux {
+    font-size: 1opx;
+    margin-right: 5px;
+
+}
