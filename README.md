@@ -73,7 +73,7 @@ Le site est entièrement responsive et s'adapte à :
 - Smartphones
 - Toutes les tailles d'écran
 
- 🎯 Pages Principales
+ Pages Principales
 
  Accueil (`Acceuil.html`)
 - Présentation des trois catégories de véhicules
