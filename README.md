@@ -1,15 +1,15 @@
-# 🚗 Location de Voiture - Site Web
+Location de Voiture - Site Web
 
 Un site web moderne et responsive pour la location de voitures, développé avec HTML5 et CSS3.
 
-## 📋 Description
+ Description
 
 Ce projet présente une plateforme en ligne permettant aux utilisateurs de découvrir et de choisir parmi une variété de voitures :
 - **Voitures de Luxe** : Véhicules haut de gamme avec design captivant et performances exceptionnelles
 - **Hot Gamme** : Voitures sportives et performantes
 - **Voitures Normales** : Véhicules économiques et pratiques
 
-## 🏗️ Structure du Projet
+ Structure du Projet
 
 ```
 Location de Voiture/
@@ -30,7 +30,7 @@ Location de Voiture/
 └── README.md
 ```
 
-## 🎨 Fonctionnalités
+ Fonctionnalités
 
 - **Design Responsive** : Adaptation automatique à tous les écrans
 - **Navigation Intuitive** : Menu de navigation clair et accessible
@@ -39,33 +39,33 @@ Location de Voiture/
 - **Formulaire de Contact** : Communication directe avec l'entreprise
 - **Réseaux Sociaux** : Liens vers les plateformes sociales
 
-## 🛠️ Technologies Utilisées
+ Technologies Utilisées
 
 - **HTML5** : Structure sémantique et moderne
 - **CSS3** : Styles avancés avec Flexbox et Media Queries
 - **Font Awesome** : Icônes vectorielles
 - **Design Responsive** : Adaptation mobile-first
 
-## 🚀 Installation et Utilisation
+ Installation et Utilisation
 
-1. **Cloner le repository**
-   ```bash
-   git clone [URL_DU_REPO]
+Cloner le repository**
+   bash
+   git clone 
    cd "Location de Voiture"
-   ```
+   
 
-2. **Ouvrir le projet**
+Ouvrir le projet
    - Ouvrir le fichier `HTML/PAGES/Acceuil.html` dans votre navigateur
    - Ou utiliser un serveur local pour une meilleure expérience
 
-3. **Navigation**
+Navigation
    - **Accueil** : Page principale avec présentation des catégories
    - **Voitures de Luxe** : Détails sur les véhicules premium
    - **Hot Gamme** : Voitures sportives et performantes
    - **Voitures Normales** : Véhicules économiques
    - **Contact** : Formulaire de contact et informations
 
-## 📱 Responsive Design
+ Responsive Design
 
 Le site est entièrement responsive et s'adapte à :
 - Ordinateurs de bureau
@@ -73,31 +73,31 @@ Le site est entièrement responsive et s'adapte à :
 - Smartphones
 - Toutes les tailles d'écran
 
-## 🎯 Pages Principales
+ 🎯 Pages Principales
 
-### Accueil (`Acceuil.html`)
+ Accueil (`Acceuil.html`)
 - Présentation des trois catégories de véhicules
 - Vidéo promotionnelle BMW
 - Navigation vers les pages détaillées
 
-### Voitures de Luxe (`VoitureLuxe.html`)
+ Voitures de Luxe (`VoitureLuxe.html`)
 - Détails sur les véhicules premium
 - Images et descriptions des modèles
 
-### Hot Gamme (`hotGame.html`)
+ Hot Gamme (`hotGame.html`)
 - Voitures sportives et performantes
 - Présentation des modèles haut de gamme
 
-### Voitures Normales (`MoyenGame.html`)
+ Voitures Normales (`MoyenGame.html`)
 - Véhicules économiques et pratiques
 - Options abordables
 
-### Contact (`contact.html`)
+ Contact (`contact.html`)
 - Formulaire de contact
 - Informations de l'entreprise
 - Coordonnées
 
-## 🎨 Styles CSS
+ Styles CSS
 
 Le fichier `CSS/styles.css` contient :
 - Layout avec Flexbox
@@ -105,16 +105,16 @@ Le fichier `CSS/styles.css` contient :
 - Animations et transitions
 - Design moderne et professionnel
 
-## 📞 Contact
+ Contact
 
-- **Téléphone** : +123 456 789
-- **Réseaux Sociaux** : Facebook, Twitter, Instagram
+   Téléphone** : +123 456 789
+   Réseaux Sociaux** : Facebook, Twitter, Instagram
 
-## 📄 Licence
+ Licence
 
 © 2023 Location de Voiture. Tous droits réservés.
 
-## 🤝 Contribution
+ Contribution
 
 Les contributions sont les bienvenues ! N'hésitez pas à :
 1. Fork le projet
@@ -123,6 +123,3 @@ Les contributions sont les bienvenues ! N'hésitez pas à :
 4. Pousser vers la branche
 5. Ouvrir une Pull Request
 
----
-
-**Développé avec ❤️ pour la location de voitures**
